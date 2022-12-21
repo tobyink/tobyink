@@ -1,1 +1,2 @@
-![Github stats](https://github-readme-stats.vercel.app/api?username=tobyink&count_private=true&show_icons=true) ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tobyink&layout=compact&langs_count=6&hide=Raku,HTML,CSS,Perl+6,Prolog)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tobyink&count_private=true&show_icons=true)
+![Most used languages](https://user-images.githubusercontent.com/251383/208931259-0c4aea50-af62-409d-babc-28351cc887f9.png)
