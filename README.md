@@ -23,7 +23,6 @@
 * [SemVer but with Extra Steps](https://toby.ink/blog/2022/12/30/semver-but-with-extra-steps/)
 * [Type::Tiny v2 is Coming](https://toby.ink/blog/2022/09/16/typetiny-v2-is-coming/)
 
-
 ## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tobyink&count_private=true&show_icons=true)
