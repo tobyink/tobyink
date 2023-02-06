@@ -1,3 +1,5 @@
+## Toby Inkster
+
 [![Website](https://img.shields.io/badge/web-toby.ink-4b7d2b)](https://toby.ink/)
  [![Blog](https://img.shields.io/badge/blog-toby.ink/blog-62225a?logo=wordpress)](https://toby.ink/blog/)
  [![Mastodon](https://img.shields.io/mastodon/follow/109586327020084318?domain=https%3A%2F%2Ftoots.toby.ink&style=social)](https://toots.toby.ink/@tobyink)
@@ -13,6 +15,18 @@
  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 
+### Blog
+
+* [Perl Testing in 2023](https://toby.ink/blog/2023/01/24/perl-testing-in-2023/)
+* [Creating a Simple DSL in Perl](https://toby.ink/blog/2023/01/09/creating-a-simple-dsl-in-perl/)
+* [Keeping Your Valuables Under Lock and Key](https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/)
+* [SemVer but with Extra Steps](https://toby.ink/blog/2022/12/30/semver-but-with-extra-steps/)
+* [Type::Tiny v2 is Coming](https://toby.ink/blog/2022/09/16/typetiny-v2-is-coming/)
+
+
+### Github Stats
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tobyink&count_private=true&show_icons=true)
 
 ![Streak](https://streak-stats.demolab.com/?user=tobyink&type=png)
+
