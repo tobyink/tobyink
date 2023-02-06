@@ -1,4 +1,4 @@
-## Toby Inkster
+# Toby Inkster
 
 [![Website](https://img.shields.io/badge/web-toby.ink-4b7d2b)](https://toby.ink/)
  [![Blog](https://img.shields.io/badge/blog-toby.ink/blog-62225a?logo=wordpress)](https://toby.ink/blog/)
@@ -15,7 +15,7 @@
  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
  [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 
-### Blog
+## Blog
 
 * [Perl Testing in 2023](https://toby.ink/blog/2023/01/24/perl-testing-in-2023/)
 * [Creating a Simple DSL in Perl](https://toby.ink/blog/2023/01/09/creating-a-simple-dsl-in-perl/)
@@ -24,7 +24,7 @@
 * [Type::Tiny v2 is Coming](https://toby.ink/blog/2022/09/16/typetiny-v2-is-coming/)
 
 
-### Github Stats
+## Github Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tobyink&count_private=true&show_icons=true)
 
