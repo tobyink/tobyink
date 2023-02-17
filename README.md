@@ -17,11 +17,11 @@
 
 ## Blog
 
+* [Using Type::Params Effectively](https://toby.ink/blog/2023/02/17/using-typeparams-effectively/)
 * [Setting up WordPress in 2023](https://toby.ink/blog/2023/02/07/setting-up-wordpress-in-2023/)
 * [Perl Testing in 2023](https://toby.ink/blog/2023/01/24/perl-testing-in-2023/)
 * [Creating a Simple DSL in Perl](https://toby.ink/blog/2023/01/09/creating-a-simple-dsl-in-perl/)
 * [Keeping Your Valuables Under Lock and Key](https://toby.ink/blog/2023/01/02/keeping-your-valuables-under-lock-and-key/)
-* [SemVer but with Extra Steps](https://toby.ink/blog/2022/12/30/semver-but-with-extra-steps/)
 
 ## Github Stats
 
