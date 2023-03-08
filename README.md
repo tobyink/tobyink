@@ -17,11 +17,11 @@
 
 ## Blog
 
+* [Prosody vs Synapse](https://toby.ink/blog/2023/03/08/prosody-vs-synapse/)
 * [Top Five Disney Villain Songs](https://toby.ink/blog/2023/02/24/top-five-disney-villain-songs/)
 * [Using Type::Params Effectively](https://toby.ink/blog/2023/02/17/using-typeparams-effectively/)
 * [Setting up WordPress in 2023](https://toby.ink/blog/2023/02/07/setting-up-wordpress-in-2023/)
 * [Perl Testing in 2023](https://toby.ink/blog/2023/01/24/perl-testing-in-2023/)
-* [Creating a Simple DSL in Perl](https://toby.ink/blog/2023/01/09/creating-a-simple-dsl-in-perl/)
 
 ## Github Stats
 
