@@ -17,6 +17,7 @@
 
 ## Blog
 
+* [Increasing Perl’s Visibility, Redux](https://toby.ink/blog/2023/04/05/increasing-perls-visibility-redux/)
 * [Experiments in Overloading](https://toby.ink/blog/2023/04/02/experiments-in-overloading/)
 * [Introducing Exporter::Almighty](https://toby.ink/blog/2023/03/25/introducing-exporteralmighty/)
 * [Prosody vs Synapse](https://toby.ink/blog/2023/03/08/prosody-vs-synapse/)
