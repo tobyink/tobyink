@@ -17,12 +17,12 @@
 
 ## Blog
 
+* [Matching simply](https://toby.ink/blog/2023/07/14/matching-simply/)
 * [Increasing Perl’s Visibility, Redux](https://toby.ink/blog/2023/04/05/increasing-perls-visibility-redux/)
 * [Experiments in Overloading](https://toby.ink/blog/2023/04/02/experiments-in-overloading/)
 * [Introducing Exporter::Almighty](https://toby.ink/blog/2023/03/25/introducing-exporteralmighty/)
 * [Prosody vs Synapse](https://toby.ink/blog/2023/03/08/prosody-vs-synapse/)
 * [Top Five Disney Villain Songs](https://toby.ink/blog/2023/02/24/top-five-disney-villain-songs/)
-* [Using Type::Params Effectively](https://toby.ink/blog/2023/02/17/using-typeparams-effectively/)
 
 ## Github Stats
 
