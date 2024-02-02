@@ -17,12 +17,12 @@
 
 ## Blog
 
+* [One Day Blinding Stew](https://toby.ink/blog/2024/02/02/one-day-blinding-stew/)
 * [How to Cook Macaroni &#038; Cheese from Scratch](https://toby.ink/blog/2023/08/09/how-to-cook-macaroni-cheese-from-scratch/)
 * [Matching simply](https://toby.ink/blog/2023/07/14/matching-simply/)
 * [Increasing Perl’s Visibility, Redux](https://toby.ink/blog/2023/04/05/increasing-perls-visibility-redux/)
 * [Experiments in Overloading](https://toby.ink/blog/2023/04/02/experiments-in-overloading/)
 * [Introducing Exporter::Almighty](https://toby.ink/blog/2023/03/25/introducing-exporteralmighty/)
-* [Prosody vs Synapse](https://toby.ink/blog/2023/03/08/prosody-vs-synapse/)
 
 ## Github Stats
 
