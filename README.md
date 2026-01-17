@@ -17,12 +17,12 @@
 
 ## Blog
 
+* [How can we make this Moose faster?](https://toby.ink/blog/2026/01/17/how-can-we-make-this-moose-faster/)
 * [Marlin Racing](https://toby.ink/blog/2026/01/11/marlin-racing/)
 * [Introducing Marlin](https://toby.ink/blog/2025/12/18/introducing-marlin/)
 * [Type::Tiny 2.8.0 Released](https://toby.ink/blog/2025/03/31/typetiny-280-released/)
 * [One Day Blinding Stew](https://toby.ink/blog/2024/02/02/one-day-blinding-stew/)
 * [How to Cook Macaroni &#038; Cheese from Scratch](https://toby.ink/blog/2023/08/09/how-to-cook-macaroni-cheese-from-scratch/)
-* [Matching simply](https://toby.ink/blog/2023/07/14/matching-simply/)
 
 ## Github Stats
 
