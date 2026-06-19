@@ -17,12 +17,12 @@
 
 ## Blog
 
-* [Introducing ZuzuScript](https://toby.ink/blog/2026/05/31/introducing-zuzuscript/)
-* [How can we make this Moose faster?](https://toby.ink/blog/2026/01/17/how-can-we-make-this-moose-faster/)
-* [Marlin Racing](https://toby.ink/blog/2026/01/11/marlin-racing/)
-* [Introducing Marlin](https://toby.ink/blog/2025/12/18/introducing-marlin/)
-* [Type::Tiny 2.8.0 Released](https://toby.ink/blog/2025/03/31/typetiny-280-released/)
-* [One Day Blinding Stew](https://toby.ink/blog/2024/02/02/one-day-blinding-stew/)
+* [ZuzuScript 0.6.x released](https://toby.ink/blog/2026/06/19/zuzuscript-0-6-x-released/)
+* [ZuzuScript 0.5.x released](https://toby.ink/blog/2026/06/18/zuzuscript-0-5-x-released/)
+* [Building GUIs with Zuzu-Designer](https://toby.ink/blog/2026/06/16/building-guis-with-zuzu-designer/)
+* [Introducing Rowquill](https://toby.ink/blog/2026/06/14/introducing-rowquill/)
+* [ZuzuScript 0.4.x released](https://toby.ink/blog/2026/06/12/zuzuscript-0-4-x-released/)
+* [ZuzuScript 0.3.x released](https://toby.ink/blog/2026/06/10/zuzuscript-0-3-x-released/)
 
 ## Github Stats
 
