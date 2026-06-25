@@ -17,12 +17,12 @@
 
 ## Blog
 
+* [ZuzuScript 0.7.x released](https://toby.ink/blog/2026/06/25/zuzuscript-0-7-x-released/)
 * [ZuzuScript 0.6.x released](https://toby.ink/blog/2026/06/19/zuzuscript-0-6-x-released/)
 * [ZuzuScript 0.5.x released](https://toby.ink/blog/2026/06/18/zuzuscript-0-5-x-released/)
 * [Building GUIs with Zuzu-Designer](https://toby.ink/blog/2026/06/16/building-guis-with-zuzu-designer/)
 * [Introducing Rowquill](https://toby.ink/blog/2026/06/14/introducing-rowquill/)
 * [ZuzuScript 0.4.x released](https://toby.ink/blog/2026/06/12/zuzuscript-0-4-x-released/)
-* [ZuzuScript 0.3.x released](https://toby.ink/blog/2026/06/10/zuzuscript-0-3-x-released/)
 
 ## Github Stats
 
